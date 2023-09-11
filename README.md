@@ -1,4 +1,4 @@
 # PiedPiper
 
-This website was created for learning. It has html, css.
-You can see the header and click on buttons, simple code for the website.
+This website was created for learning by using html and css
+You can see the header and click on buttons, a simple code for the website.
